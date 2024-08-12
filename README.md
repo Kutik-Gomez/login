@@ -27,3 +27,5 @@ Este proyecto utiliza varias herramientas y librerías para facilitar el desarro
 ### jsonwebtoken
 `jsonwebtoken` nos permite crear y verificar tokens, que son usados para manejar la autenticación de usuarios en nuestras aplicaciones.
 
+### nodemon
+`nodemon:` se utiliza para reiniciar automáticamente el servidor cuando detecta cambios en el código
