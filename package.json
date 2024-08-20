@@ -13,10 +13,12 @@
   "license": "ISC",
   "description": "Kutik-Gomez",
   "dependencies": {
+    "@prisma/client": "^5.18.0",
     "bcryptjs": "^2.4.3",
     "dotenv": "^16.4.5",
     "express": "^4.19.2",
     "jsonwebtoken": "^9.0.2",
+    "npx": "^3.0.0",
     "pg": "^8.12.0",
     "pg-hstore": "^2.3.4",
     "sequelize": "^6.37.3"
